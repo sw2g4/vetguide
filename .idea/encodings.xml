@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/LoginDialog.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/PerfilFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/RegistroActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/TLKActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable/imagen1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_registro.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_tkl.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/fragment_dialog.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/fragment_perfil.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

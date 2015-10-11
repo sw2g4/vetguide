@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Registro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+    <EditText
+        android:id="@+id/user"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_usuario"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="50dp"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_pass"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+    <EditText
+        android:id="@+id/nombre"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_nom"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+    <EditText
+        android:id="@+id/apellido"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_apell"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+    <EditText
+        android:id="@+id/nombreMascota"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_masc"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+
+    <EditText
+        android:id="@+id/TipoMascota"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_tmasc"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+    <EditText
+        android:id="@+id/RazaMascota"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ing_Rmasc"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"/>
+
+    <Button
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+        android:text="Guardar"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/butGuardar"/>
+
+</LinearLayout>
